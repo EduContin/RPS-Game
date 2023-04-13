@@ -1,6 +1,8 @@
 import os # Importa lib para limpar o console
 import random # Importa lib para usar random
 
+##oiiiiiiiiiiiiiiiiiiiiiiii
+
 # Variáveis
 playerScore1 = 0
 playerScore2 = 0
